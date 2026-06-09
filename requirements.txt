@@ -1,6 +1,13 @@
+altgraph==0.17.5
 cffi==2.0.0
 cryptography==48.0.0
 customtkinter==5.2.2
 darkdetect==0.8.0
+numpy==2.4.6
+opencv-python==4.13.0.92
 packaging==26.2
+pillow==12.2.0
 pycparser==3.0
+pyinstaller==6.20.0
+pyinstaller-hooks-contrib==2026.5
+setuptools==82.0.1
