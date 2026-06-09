@@ -1,40 +1,45 @@
-# README - Crypto App
+# 🛠️ Outils du Quotidien
 
-## Description
+Bienvenue dans ce dépôt !
 
-Crypto App est une application desktop permettant de chiffrer et déchiffrer des fichiers à l’aide d’un mot de passe utilisateur.  
-L’application utilise un chiffrement moderne basé sur AES-GCM avec dérivation de clé via Scrypt.
+Ce repository regroupe une collection de petites applications et d'outils que j'ai développés pour répondre à des besoins simples du quotidien. Chaque projet est né d'une idée, d'un problème rencontré ou simplement de l'envie de créer quelque chose d'utile.
 
-Elle fournit une interface graphique avec deux fonctionnalités principales :
-- Chiffrement de fichiers
-- Déchiffrement de fichiers
+## ✨ Philosophie
+
+Ces applications ne cherchent pas à être les plus complexes ou les plus révolutionnaires. Elles ont été conçues avec un objectif simple :
+
+> Rendre certaines tâches plus faciles, plus rapides et plus agréables.
+
+Chaque ligne de code a été écrite avec soin, curiosité et passion. J'aime apprendre en construisant, expérimenter de nouvelles technologies et transformer des idées en outils concrets.
+
+## 📦 Contenu du dépôt
+
+Vous trouverez ici différents types d'applications :
+
+* Outils de productivité
+* Utilitaires pour le bureau
+* Applications de traitement d'images
+* Outils de chiffrement et de sécurité
+* Scripts d'automatisation
+* Projets expérimentaux
+* Et bien d'autres petites créations
+
+## ❤️ Fait avec le cœur
+
+Ces projets ont été réalisés pendant mon temps libre, parfois pour résoudre un besoin personnel, parfois simplement pour le plaisir de développer.
+
+Ils ne sont peut-être pas parfaits, mais ils représentent chacun une étape de mon apprentissage et de ma passion pour l'informatique.
+
+Si l'un de ces outils peut vous être utile, alors l'objectif est atteint.
+
+## 🚀 Contributions
+
+Les suggestions, idées d'amélioration et contributions sont toujours les bienvenues.
+
+## 📜 Licence
+
+Sauf indication contraire, les projets de ce dépôt sont distribués sous leur licence respective.
 
 ---
 
-## Fonctionnalités
-
-- Chiffrement de fichiers avec mot de passe
-- Déchiffrement sécurisé
-- Dérivation de clé avec Scrypt
-- Chiffrement AES-GCM authentifié
-- Interface graphique avec Tkinter et CustomTkinter
-- Sélection de fichiers via explorateur système
-- Affichage / masquage du mot de passe
-
----
-
-## Technologies utilisées
-
-- Python 3.10+ (recommandé 3.11)
-- Tkinter / CustomTkinter
-- cryptography (AES-GCM, Scrypt)
-
----
-
-## Installation sous Linux
-
-### 1. Installer Python et dépendances système
-
-```bash
-sudo apt update
-sudo apt install python3 python3-pip python3-tk python3-venv
+**Développé avec passion, curiosité et beaucoup de café. ☕**
