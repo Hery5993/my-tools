@@ -36,10 +36,6 @@ Si l'un de ces outils peut vous être utile, alors l'objectif est atteint.
 
 Les suggestions, idées d'amélioration et contributions sont toujours les bienvenues.
 
-## 📜 Licence
-
-Sauf indication contraire, les projets de ce dépôt sont distribués sous leur licence respective.
-
 ---
 
 **Développé avec passion, curiosité et beaucoup de café. ☕**
